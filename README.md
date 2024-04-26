@@ -11,6 +11,7 @@ The calculator application is built using Python and the Tkinter library for cre
 
 ## Color Theme
 The color theme of the calculator application is designed to provide a visually appealing interface while maintaining readability and usability. The color scheme includes shades of blue and green for the buttons, with contrasting text colors for improved visibility.
+<br>
 <img src="./imgs/Calculator.png"/>
 
 ## How to Start the Project on Your Own Device
